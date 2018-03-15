@@ -195,34 +195,4 @@ public class MainActivity extends AppCompatActivity {
             // TODO: handle exception
         }
     }
-
-//    @OnClick(R.id.ok)
-//    public void onButtonClick(View view) {
-//
-//        double a = Integer.parseInt(first.getText().toString());
-//        double b = Integer.parseInt(sec.getText().toString());
-//        double c = Integer.parseInt(third.getText().toString());
-//
-//
-//        Log.e("TAG",a+"");
-//        Log.e("TAG",b+"");
-//        Log.e("TAG",c+"");
-//
-//        double ans = (-b + Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
-//        double ans2 = (-b - Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
-//
-//        Log.e("TAG",ans+"");
-//        Log.e("TAG",ans2+"");
-//
-//        if (Double.isNaN(ans) || Double.isNaN(ans2))
-//        {
-//            lblTitle.setText("Answer contains imaginary numbers");
-//        } else {
-//
-//            lblTitle.setText(ans+","+ans2);
-//
-//        }
-//
-//
-//    }
 }
