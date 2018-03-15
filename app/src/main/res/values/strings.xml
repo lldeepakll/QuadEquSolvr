@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quad Equ Solvr</string>
+    <string name="solve">SOLVE</string>
+    <string name="app_title">Quadratic Equation Solver</string>
+    <string name="co_eff">Enter the coefficients for the Ax\u00B2 + Bx + C = 0 equation</string>
+</resources>
